@@ -2,6 +2,65 @@
 
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
+# ☁️ Tipos de Serviços de Nuvem no Microsoft Azure
+O Microsoft Azure oferece uma ampla variedade de serviços em nuvem, abrangendo todos os modelos de computação em nuvem. Aqui está a categorização detalhada:
+
+1. IaaS (Infrastructure as a Service)
+Serviços de infraestrutura virtualizada:
+
+Computação
+Azure Virtual Machines (VMs): Máquinas virtuais Windows/Linux
+
+Azure VM Scale Sets: Dimensionamento automático de VMs
+
+Azure Dedicated Host: Servidores físicos dedicados
+
+Armazenamento
+Azure Blob Storage: Armazenamento de objetos
+
+Azure Disk Storage: Discos para VMs
+
+Azure Files: Sistema de arquivos em nuvem
+
+Rede
+Azure Virtual Network (VNet): Rede privada virtual
+
+Azure Load Balancer: Balanceamento de carga
+
+Azure VPN Gateway: Conexões VPN seguras
+
+2. PaaS (Platform as a Service)
+Plataformas para desenvolvimento e implantação:
+
+Desenvolvimento de Aplicações
+Azure App Service: Hospedagem de aplicações web/mobile
+
+Azure Container Instances (ACI): Containers sem gerenciamento de cluster
+
+Azure Kubernetes Service (AKS): Serviço gerenciado de Kubernetes
+
+Banco de Dados
+Azure SQL Database: Banco de dados SQL gerenciado
+
+Azure Cosmos DB: Banco de dados NoSQL global
+
+Azure Database for MySQL/PostgreSQL: Bancos relacionais gerenciados
+
+Integração
+Azure API Management: Gerenciamento de APIs
+
+Azure Service Bus: Mensageria empresarial
+
+Azure Logic Apps: Automação de fluxos de trabalho
+
+3. SaaS (Software as a Service)
+Aplicativos completos na nuvem:
+
+Microsoft 365: Suite de produtividade (Office online)
+
+Dynamics 365: ERP e CRM na nuvem
+
+Azure DevOps: Ferramentas de desenvolvimento colaborativo
 -O laboratório do azure sempre tem a mesma interface 
 -Para alterar o idioma basta ir em configurações->idiomas->região,onde possibilita também alterar a aparência
 -Os serviços do azure são listados por categoria
